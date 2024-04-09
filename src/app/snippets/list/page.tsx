@@ -14,7 +14,7 @@ export default async function Home() {
       <ul>
         {renderedSnippets}
 
-        <li><Link href="/snippets/999999">Inexistent</Link></li>
+        <li><Link href="/snippets/999999">Inexistent item</Link></li>
       </ul>
     </>
   );
